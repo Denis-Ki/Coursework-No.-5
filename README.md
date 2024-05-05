@@ -31,7 +31,7 @@ Kichulkin Denis Coursework No. 5 (SkyPro)
 
 Клонирование проекта:
 
-git clone git@github.com:Denis-Ki/Coursework-No.-3.git
+git@github.com:Denis-Ki/Coursework-No.-5.git
 
 Автор проекта:
 Кичулкин Д.А.(https://github.com/Denis-Ki)

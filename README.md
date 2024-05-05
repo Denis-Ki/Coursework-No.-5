@@ -1,6 +1,9 @@
 # Coursework-No.-5
 Kichulkin Denis Coursework No. 5 (SkyPro)
 
+Название проекта
+«База данных вакансий HH.ru»
+
 Программа получает данные о компаниях и вакансиях 
 с сайта hh.ru, и загружает полученные данные 
 в созданные таблицы в БД PostgreSQL.
@@ -25,3 +28,10 @@ Kichulkin Denis Coursework No. 5 (SkyPro)
 
 5 Получает список всех вакансий, в названии которых содержатся переданные 
   в метод слова.
+
+Клонирование проекта:
+
+git clone git@github.com:Denis-Ki/Coursework-No.-3.git
+
+Автор проекта:
+Кичулкин Д.А.(https://github.com/Denis-Ki)
